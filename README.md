@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sanika Gholap
 
-🎓 AI & DS Student | 🐍 Python Developer | 🤖 AI & Machine Learning Enthusiast
+🎓 AI & DS Student | 🤖 AI & Machine Learning Enthusiast
 
 ---
 
@@ -41,6 +41,7 @@
 - Machine Learning
 - Generative AI
 - Deep Learning
+- DSA
 
 ---
 
